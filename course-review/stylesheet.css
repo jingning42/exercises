@@ -1,0 +1,31 @@
+/* my fist css file */
+
+a {
+    text-decoration: none;
+}
+
+body {
+    max-width: 625px;
+}
+
+h1, h3, h4 {
+    color: #005A9C;
+}
+
+h2 {
+    color: #005A9C;
+    text-align: center;
+}
+
+span {
+     color: brown;
+}
+
+#ps {
+    font-size: 12px;
+    color: #696969;
+}
+
+#ft-l {
+    font-size: 12px;
+}
